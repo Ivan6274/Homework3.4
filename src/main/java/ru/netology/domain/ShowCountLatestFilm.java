@@ -8,11 +8,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Data
 
-public class PurchaseItem {
-
-  private int id;
-  private int productId;
-  private String productName;
-  private String fotoMovieUrl;
-
+public class ShowCountLatestFilm {
+ private int count;
 }
