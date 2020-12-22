@@ -10,9 +10,9 @@ import lombok.NoArgsConstructor;
 
 public class PurchaseItem {
 
-  private int id;
-  private int productId;
-  private String productName;
-  private String fotoMovieUrl;
+    private int id;
+    private int productId;
+    private String productName;
+    private String fotoMovieUrl;
 
 }
